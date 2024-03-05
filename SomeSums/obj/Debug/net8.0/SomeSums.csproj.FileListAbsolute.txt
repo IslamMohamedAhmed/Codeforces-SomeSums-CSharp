@@ -1,0 +1,14 @@
+C:\Users\Islam Mohamed\Documents\C# Projects\SomeSums\SomeSums\bin\Debug\net8.0\SomeSums.exe
+C:\Users\Islam Mohamed\Documents\C# Projects\SomeSums\SomeSums\bin\Debug\net8.0\SomeSums.deps.json
+C:\Users\Islam Mohamed\Documents\C# Projects\SomeSums\SomeSums\bin\Debug\net8.0\SomeSums.runtimeconfig.json
+C:\Users\Islam Mohamed\Documents\C# Projects\SomeSums\SomeSums\bin\Debug\net8.0\SomeSums.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\SomeSums\SomeSums\bin\Debug\net8.0\SomeSums.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\SomeSums\SomeSums\obj\Debug\net8.0\SomeSums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Islam Mohamed\Documents\C# Projects\SomeSums\SomeSums\obj\Debug\net8.0\SomeSums.AssemblyInfoInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\SomeSums\SomeSums\obj\Debug\net8.0\SomeSums.AssemblyInfo.cs
+C:\Users\Islam Mohamed\Documents\C# Projects\SomeSums\SomeSums\obj\Debug\net8.0\SomeSums.csproj.CoreCompileInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\SomeSums\SomeSums\obj\Debug\net8.0\SomeSums.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\SomeSums\SomeSums\obj\Debug\net8.0\refint\SomeSums.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\SomeSums\SomeSums\obj\Debug\net8.0\SomeSums.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\SomeSums\SomeSums\obj\Debug\net8.0\SomeSums.genruntimeconfig.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\SomeSums\SomeSums\obj\Debug\net8.0\ref\SomeSums.dll
